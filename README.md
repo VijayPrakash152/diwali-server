@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/aayansh152/diwali-server/main/a/img/logo.png" alt="Diwlai-Server" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/aayansh152/diwali-server/main/img/logo.png" alt="Diwali-Server" width="200"></a>
   <br>
   Diwali-Server
   <br>
