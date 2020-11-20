@@ -13,10 +13,8 @@
   <a href="#license">License</a>
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/aayansh152/diwali-server/main/img/Diwali-Server.gif">
+  <img width="660" height="300" src="https://raw.githubusercontent.com/aayansh152/diwali-server/main/img/Diwali-Server.gif">
 </p>
-
-![screenshot](https://raw.githubusercontent.com/aayansh152/diwali-server/main/img/Diwali-Server.gif)
 
 ## How To Use
 
