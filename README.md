@@ -42,6 +42,8 @@ This software uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
 - [Twilio](https://www.twilio.com/)
+- [Express](https://expressjs.com/)
+- [Config](https://www.npmjs.com/package/config)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 - [highlight.js](https://highlightjs.org/)
