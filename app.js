@@ -13,5 +13,5 @@ setInterval(() => {
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`The server is running hello successfully at port ${PORT}`);
+  console.log(`The server is running  successfully at port ${PORT}`);
 });
