@@ -54,4 +54,4 @@ MIT
 
 ---
 
-> GitHub [@aayansh152](https://github.com/aayansh) &nbsp;&middot;&nbsp;
+> GitHub [@VijayPrakash152](https://github.com/VijayPrakash152) &nbsp;&middot;&nbsp;
