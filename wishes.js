@@ -1,10 +1,21 @@
+// These are some diwali messages from me, you can add
+// more messages to this array or you can also fetch data
+// from a third party api.
 
- // These are some diwali messages from me, you can add 
- // more messages to this array or you can also fetch data
- // from a third party api.
-  
 module.exports = () => {
-    const wishes = [`😇ज्योति-पर्व है,ज्योति जलाएं,
+  const valentines = [
+    `💘I am happiest when I’m right next to you Vijay.💘`,
+    `My night has become a sunny dawn because of you Vijay.😘`,
+    `The best thing to hold onto in life is each other.💌`,
+    `You may hold my hand for a while, but you hold my 💞 heart forever.`,
+    `I know I am in love with you because my reality is finally better than my dreams.💝`,
+    `I need you like a heart needs a beat.👩‍❤️‍👩`,
+    `Your love is all I need to feel complete.❤️‍🔥`,
+    `Love you Vijay😘`,
+  ];
+
+  const wishes = [
+    `😇ज्योति-पर्व है,ज्योति जलाएं,
     मन के तम को दूर भगाएं।
     दीप जलाएं सबके घर पर,
     जो नम आँखें उनके घर पर।
@@ -29,9 +40,9 @@ module.exports = () => {
     Shoot a rocket of prosperity!
     Fire a flowerpot of happiness!
     Wish u and your family…
-    A VERY SPARKLING DIWALI  🙏🏻 `
-]
- let len = wishes.length;
- let idx = Math.ceil(Math.random()*len) - 1;
-  return wishes[idx]; 
-}
+    A VERY SPARKLING DIWALI  🙏🏻 `,
+  ];
+  let len = valentines.length;
+  let idx = Math.ceil(Math.random() * len) - 1;
+  return valentines[idx];
+};
